@@ -1,4 +1,4 @@
 all:
-	g++ hello1.cpp
+	g++ hello1.cpp hello1Helper.cpp
 	./a.out
 	rm a.out
